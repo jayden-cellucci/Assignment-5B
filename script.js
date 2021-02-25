@@ -1,6 +1,6 @@
 //Enter in the a area in the first textboxt
 function formula(){
-  let a =document.getElementById("t1").value;
+  let a = document.getElementById("t1").value;
   a = parseInt(a)
   area (a);
 }

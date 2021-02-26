@@ -23,3 +23,8 @@ function circumference (c) {
   const answer = (2 * 3.14 * c)
   console.log(answer)
 }
+
+window.onload = function() {
+  document.getElementById("findAreaButton").onclick = formula
+  document.getElementById("findCircumferenceButton").onclick = formula2
+}

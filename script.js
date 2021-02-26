@@ -24,7 +24,7 @@ function circumference (c) {
   console.log(answer)
 }
 
-window.onload = function() {
-  document.getElementById("findAreaButton").onclick = formula
-  document.getElementById("findCircumferenceButton").onclick = formula2
+window.onload = function () {
+  document.getElementById('findAreaButton').onclick = formula
+  document.getElementById('findCircumferenceButton').onclick = formula2
 }

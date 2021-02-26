@@ -13,9 +13,9 @@ function area (a) {
 
 //  Enter in the circumference in the second text box
 function formula2 () {
-  let c = document.getElementById('t2').value;
+  let c = document.getElementById('t2').value
   c = parseInt(c)
-  circumference (c)
+  circumference(c)
 }
 
 //  calculate the circumference using the function (formula2)

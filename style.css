@@ -4,6 +4,8 @@ body {
 
 h1 {
   color: white;
+  font-family: papyrus;
+  border: 5px solid red
 }
 
 p {
